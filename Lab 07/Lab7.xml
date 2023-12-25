@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Program>
+  <Animal>
+    <MyComment>Base class Animal</MyComment>
+    <Properties>Country HideFromOtherAnimals Name WhatAnimal </Properties>
+    <Constructors>Lab07_Library.Animal</Constructors>
+    <Methods>GetClassificationAnimal GetFavoriteFood SayHello GetType ToString Equals GetHashCode </Methods>
+  </Animal>
+  <Cow>
+    <MyComment>Inheritable class Cow</MyComment>
+    <Properties>Country HideFromOtherAnimals Name WhatAnimal </Properties>
+    <Constructors>Lab07_Library.Cow</Constructors>
+    <Methods>GetClassificationAnimal GetFavoriteFood SayHello GetType ToString Equals GetHashCode </Methods>
+  </Cow>
+  <eClassificationAnimal>
+    <MyComment>Animals classification</MyComment>
+    <Values>Herbivores Carnivores Omnivores </Values>
+  </eClassificationAnimal>
+  <eFavoriteFood>
+    <MyComment>Food classification</MyComment>
+    <Values>Meat Plants Everything </Values>
+  </eFavoriteFood>
+  <Lion>
+    <MyComment>Inheritable class Lion</MyComment>
+    <Properties>Country HideFromOtherAnimals Name WhatAnimal </Properties>
+    <Constructors>Lab07_Library.Lion</Constructors>
+    <Methods>GetClassificationAnimal GetFavoriteFood SayHello GetType ToString Equals GetHashCode </Methods>
+  </Lion>
+  <MyComment>
+    <Properties>Comment TypeId </Properties>
+    <Constructors>Lab07_Library.MyComment Lab07_Library.MyComment </Constructors>
+  </MyComment>
+  <Pig>
+    <MyComment>Inheritable class Pig</MyComment>
+    <Properties>Country HideFromOtherAnimals Name WhatAnimal </Properties>
+    <Constructors>Lab07_Library.Pig</Constructors>
+    <Methods>GetClassificationAnimal GetFavoriteFood SayHello GetType ToString Equals GetHashCode </Methods>
+  </Pig>
+</Program>

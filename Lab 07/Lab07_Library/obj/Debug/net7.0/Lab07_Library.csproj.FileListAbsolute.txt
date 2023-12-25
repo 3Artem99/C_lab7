@@ -1,0 +1,34 @@
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\bin\Debug\net7.0\Lab07_Library.deps.json
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\bin\Debug\net7.0\Lab07_Library.dll
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\bin\Debug\net7.0\Lab07_Library.pdb
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.csproj.AssemblyReference.cache
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.AssemblyInfoInputs.cache
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.AssemblyInfo.cs
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.csproj.CoreCompileInputs.cache
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.dll
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\refint\Lab07_Library.dll
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.pdb
+C:\Users\Hp\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\ref\Lab07_Library.dll
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\bin\Debug\net7.0\Lab07_Library.deps.json
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\bin\Debug\net7.0\Lab07_Library.dll
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\bin\Debug\net7.0\Lab07_Library.pdb
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.AssemblyInfo.cs
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.dll
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\refint\Lab07_Library.dll
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.pdb
+C:\Users\user\Desktop\Для всего\стыбз\AL_3rd\Lab 07\Lab07_Library\obj\Debug\net7.0\ref\Lab07_Library.dll
+C:\Users\user\source\repos\Lab 07\Lab07_Library\bin\Debug\net7.0\Lab07_Library.deps.json
+C:\Users\user\source\repos\Lab 07\Lab07_Library\bin\Debug\net7.0\Lab07_Library.dll
+C:\Users\user\source\repos\Lab 07\Lab07_Library\bin\Debug\net7.0\Lab07_Library.pdb
+C:\Users\user\source\repos\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.AssemblyInfo.cs
+C:\Users\user\source\repos\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.dll
+C:\Users\user\source\repos\Lab 07\Lab07_Library\obj\Debug\net7.0\refint\Lab07_Library.dll
+C:\Users\user\source\repos\Lab 07\Lab07_Library\obj\Debug\net7.0\Lab07_Library.pdb
+C:\Users\user\source\repos\Lab 07\Lab07_Library\obj\Debug\net7.0\ref\Lab07_Library.dll
